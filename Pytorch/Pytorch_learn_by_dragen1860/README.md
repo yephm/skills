@@ -46,7 +46,7 @@ if __name__ == "__main__":
 
 3.下载新的`static`文件  将文件整体覆盖`\Lib\site-packages\visdom\static`
 
-[static](https://github.com/tsuirak/skills/tree/master/Pytorch/Pytorch_learn_by_dragen1860/static)
+点击下载新的[static](https://github.com/tsuirak/skills/tree/master/Pytorch/Pytorch_learn_by_dragen1860/static)文件
 
 
 
