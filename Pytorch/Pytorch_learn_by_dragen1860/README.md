@@ -1,4 +1,4 @@
-# 运行Visdom出现的问题
+# 本次教程可能出现的问题
 
 ## 1.启动visdom服务后长时间无反应
 
@@ -46,7 +46,7 @@ if __name__ == "__main__":
 
 3.下载新的`static`文件  将文件整体覆盖`\Lib\site-packages\visdom\static`
 
-static
+[static](https://github.com/tsuirak/skills/tree/master/Pytorch/Pytorch_learn_by_dragen1860/static)
 
 
 
